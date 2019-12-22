@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34615471733",
+    "firebase_url": "https://lastone-691a9.firebaseio.com",
+    "project_id": "lastone-691a9",
+    "storage_bucket": "lastone-691a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34615471733:android:289969d27835339e8c923c",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34615471733-vs4i8qih9s6t3950idhgd2ml61hp6vr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbsd8UouMBoUQJkwcaRO2BsMJp-pWhB6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34615471733-vs4i8qih9s6t3950idhgd2ml61hp6vr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
